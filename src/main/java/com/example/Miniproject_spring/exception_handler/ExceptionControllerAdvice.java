@@ -1,4 +1,4 @@
-package com.example.demo.exception_handler;
+package com.example.Miniproject_spring.exception_handler;
 
 
 import org.springframework.http.HttpStatus;

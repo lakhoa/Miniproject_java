@@ -1,4 +1,4 @@
-package com.example.demo.swagger;
+package com.example.Miniproject_spring.swagger;
 
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Info;

@@ -1,5 +1,5 @@
-2022-06-13 14:06:45.837  INFO 42205 --- [restartedMain] com.example.demo.DemoApplication         : Starting DemoApplication using Java 18.0.1 on VNPC018808 with PID 42205 (/Users/ntvu/Downloads/demo 3/build/classes/java/main started by ntvu in /Users/ntvu/Downloads/demo 3)
-2022-06-13 14:06:45.837  INFO 42205 --- [restartedMain] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2022-06-13 14:06:45.837  INFO 42205 --- [restartedMain] com.example.Miniproject_spring.DemoApplication         : Starting DemoApplication using Java 18.0.1 on VNPC018808 with PID 42205 (/Users/ntvu/Downloads/demo 3/build/classes/java/main started by ntvu in /Users/ntvu/Downloads/demo 3)
+2022-06-13 14:06:45.837  INFO 42205 --- [restartedMain] com.example.Miniproject_spring.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
 2022-06-13 14:06:45.862  INFO 42205 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
 2022-06-13 14:06:45.863  INFO 42205 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
 2022-06-13 14:06:46.145  INFO 42205 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
@@ -20,7 +20,7 @@
 2022-06-13 14:06:47.108  WARN 42205 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
 2022-06-13 14:06:47.715  INFO 42205 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
 2022-06-13 14:06:47.729  INFO 42205 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
-2022-06-13 14:06:47.736  INFO 42205 --- [restartedMain] com.example.demo.DemoApplication         : Started DemoApplication in 2.043 seconds (JVM running for 2.21)
+2022-06-13 14:06:47.736  INFO 42205 --- [restartedMain] com.example.Miniproject_spring.DemoApplication         : Started DemoApplication in 2.043 seconds (JVM running for 2.21)
 2022-06-13 14:15:29.362  INFO 42205 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
 2022-06-13 14:15:29.366  INFO 42205 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
 2022-06-13 14:15:29.368  INFO 42205 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

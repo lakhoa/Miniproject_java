@@ -1,4 +1,4 @@
-package com.example.demo.entity;
+package com.example.Miniproject_spring.entity;
 
 
 import javax.persistence.Entity;
