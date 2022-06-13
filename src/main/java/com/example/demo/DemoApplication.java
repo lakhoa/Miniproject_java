@@ -14,13 +14,4 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
-	@GetMapping(path = "/echo1")
-	public String getEcho() {
-		return "Echo 1.. 2.. 3.. 4";
-	}
-
-	@GetMapping(path = "/hello/{name}")
-	public String helloApp(@PathVariable String name) {
-		return "Hello " + name;
-	}
 }
